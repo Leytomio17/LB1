@@ -29,3 +29,4 @@ print(us_census.head())
 print(us_census.dtypes)
 
 plt.scatter(women, Income)
+
